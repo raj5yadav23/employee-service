@@ -77,6 +77,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>employee-service</finalName>
 	</build>
 
 </project>
